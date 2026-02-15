@@ -20,6 +20,7 @@ Hold-to-trigger + cooldown to reduce accidental actions
 ---
 
 ## Gestures & Actions
+<img width="631" height="507" alt="image" src="https://github.com/user-attachments/assets/4bf38407-8a3c-46a0-b770-e0f81d538775" />
 
 | Gesture | Meaning | Action |
 | ✌️ Peace sign (index + middle up) | Open YouTube song | Searches `YOUTUBE_QUERY` and opens first result |
